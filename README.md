@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://en.wikipedia.org/wiki/Software_engineering
+
+Software engineering is an engineering approach to software development. A practitioner, called a software engineer, applies the engineering design process to develop software.
+
